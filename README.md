@@ -2,6 +2,10 @@
 
 一个手机优先的训练、饮食、有氧和游泳记录 WebApp。
 
+线上地址：
+
+https://whhpro.github.io/fitness-food-assistant/
+
 ## 功能
 
 - 记录常用器械动作：高位推胸、高位下拉、划船、引体、蝴蝶机夹胸、腿屈伸、深蹲等
